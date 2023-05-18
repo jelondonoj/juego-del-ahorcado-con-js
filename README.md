@@ -27,7 +27,7 @@ Este conversor fue construido utilizando HTML, CSS y JavaScript.
 
 ## Demo del código
 
-Puedes ver el resultado final del código aquí: https://demos-github-jl.000webhostapp.com/Juego_del_ahorcado_usando_js/index.html)
+Puedes ver el resultado final del código aquí: https://demos-github-jl.000webhostapp.com/Juego_del_ahorcado_usando_js/index.html
 
 ## Licencia
 
